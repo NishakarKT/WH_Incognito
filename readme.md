@@ -8,6 +8,9 @@
 # Important points to remember!
 
 1. Please use your mobile data internet to run the website, as KGP's LAN/WiFi is denied access to mongo db's servers.
+2. The website doesn't use any templates and has been coded from scratch.
+3. Due to time constraint, the website couldn't be made responsive.
+4. Website experience is best when populated with large chunk of data.
 
 # How to run the website?
 
