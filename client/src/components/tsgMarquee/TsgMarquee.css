@@ -1,0 +1,21 @@
+.tsgMarquee {
+  display: block;
+  color: white;
+  background-color: #00122b;
+  z-index: 1;
+  padding: 10px 0;
+  z-index: 2;
+}
+
+.tsgMarquee__text {
+  font-size: 20px;
+  font-weight: 400;
+  display: flex;
+  align-self: center;
+}
+
+.tsgMarquee__separator {
+  object-fit: contain;
+  width: 25px;
+  margin: 0 10px;
+}

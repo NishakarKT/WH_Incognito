@@ -1,0 +1,13 @@
+.tsgSportsAndGames {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.tsgSportsAndGames__intro > h1 {
+  font-weight: 500;
+}
+
+.tsgSportsAndGames__intro > p {
+  color: grey;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,87 @@
+.societies__shapeDivider {
+  position: absolute;
+  top: calc(70vh - 100px);
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.societies__shapeDivider svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 100px;
+}
+
+.societies__shapeDivider .shape-fill {
+  fill: #ffffff;
+}
+
+.societies__logo {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  top: -175px;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: -150px;
+  z-index: 2;
+}
+
+.societies__logo > img {
+  width: 300px;
+  object-fit: contain;
+  margin-bottom: 5px;
+  animation: societies__tv 0.5s linear infinite;
+}
+
+.societies__logo > h1 {
+  font-weight: 500;
+  font-size: 40px;
+}
+
+.societies__logo > p {
+  font-size: 20px;
+}
+
+.societies__navLinks {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.societies__navLink {
+  display: flex;
+  align-items: center;
+  padding: 7.5px;
+  padding-right: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  text-decoration: none;
+  z-index: 1;
+  transition: all 0.5s;
+  border-bottom: 4px solid transparent;
+}
+
+.societies__activeNavLink {
+  background-color: rgba(0, 0, 0, 0.15);
+  border-bottom: 4px solid #1974ec;
+}
+
+.societies__navLink:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.societies__activeNavLink:hover {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.societies__navLink > .MuiSvgIcon-root {
+  font-size: 25px;
+  margin-right: 5px;
+}

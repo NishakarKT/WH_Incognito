@@ -1,0 +1,13 @@
+.societiesTechnology {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.societiesTechnology__intro > h1 {
+  font-weight: 500;
+}
+
+.societiesTechnology__intro > p {
+  color: grey;
+  margin-bottom: 10px;
+}

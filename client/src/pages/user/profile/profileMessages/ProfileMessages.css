@@ -1,0 +1,191 @@
+.profileMessages {
+  display: flex;
+  height: 100vh;
+}
+
+.profileMessages__list {
+  width: 400px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.profileMessages__chat {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.profileMessages__listItem {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  width: 400px;
+}
+
+.profileMessages__listItems {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.profileMessages__listItems::-webkit-scrollbar {
+  width: 5px;
+}
+
+.profileMessages__listItems::-webkit-scrollbar-thumb {
+  background-color: #1974ec;
+}
+
+.profileMessages__listItems::-webkit-scrollbar-track {
+  background-color: white;
+}
+
+.profileMessages__listItem:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.profileMessages__listItemActive {
+  background-color: rgba(0, 0, 0, 0.075);
+}
+
+.profileMessages__listItemActive:hover {
+  background-color: rgba(0, 0, 0, 0.075);
+}
+
+.profileMessages__listItem > .MuiAvatar-root {
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+  border: 2px solid #1974ec;
+  padding: 2px;
+  margin-right: 5px;
+}
+
+.profileMessages__listItem > .MuiAvatar-root > img {
+  border-radius: 50%;
+}
+
+.profileMessages__name {
+  font-size: 20px;
+}
+
+.profileMessages__message {
+  font-size: 15px;
+  color: grey;
+}
+
+.profileMessages__chatHead {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.profileMessages__chatHead > .MuiAvatar-root {
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+  border: 2px solid #1974ec;
+  padding: 2px;
+  margin-right: 5px;
+}
+
+.profileMessages__chatHead > .MuiAvatar-root > img {
+  border-radius: 50%;
+}
+
+.profileMessages__chatHead > .MuiSvgIcon-root {
+  margin-left: auto;
+  font-size: 35px;
+  color: red;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.profileMessages__chatHead > .MuiSvgIcon-root:hover {
+  transform: scale(0.95);
+  filter: brightness(80%);
+  color: red;
+}
+
+.profileMessages__name {
+  font-size: 20px;
+}
+
+.profileMessages__message,
+.profileMessages__roll {
+  font-size: 15px;
+  color: grey;
+}
+
+.profileMessages__chatBody {
+  flex: 1;
+  position: relative;
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.profileMessages__messagesList {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: calc(100vh - 150px);
+  scroll-behavior: smooth;
+}
+
+.profileMessages__messagesList::-webkit-scrollbar {
+  width: 5px;
+}
+
+.profileMessages__messagesList::-webkit-scrollbar-thumb {
+  background-color: lightgray;
+}
+
+.profileMessages__chatBody > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.2;
+  z-index: -1;
+}
+
+.profileMessages__chatFoot {
+  display: flex;
+  align-items: flex-end;
+  padding: 10px;
+}
+
+.profileMessages__chatFoot > .MuiTextField-root {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.profileMessages__chatFoot > .MuiSvgIcon-root {
+  color: white;
+  background-color: #1974ec;
+  cursor: pointer;
+  border-radius: 50%;
+  font-size: 30px;
+  padding: 5px;
+  transition: all 0.5s;
+}
+
+.profileMessages__chatFoot > .MuiSvgIcon-root:hover {
+  transform: scale(0.95);
+  filter: brightness(80%);
+  background-color: #1974ec;
+}
+
+.profileMessages__chatFoot > .MuiSvgIcon-root:hover {
+  background-color: #1974ec;
+}

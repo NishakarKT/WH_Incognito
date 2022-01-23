@@ -1,0 +1,21 @@
+.profileCertificatesStudentsWelfare__intro {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.profileCertificatesStudentsWelfare__intro > h1 {
+  font-weight: 500;
+}
+
+.profileCertificatesStudentsWelfare__intro > p {
+  color: grey;
+}
+
+.profileCertificatesStudentsWelfare__cardsContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  padding: 10px;
+}

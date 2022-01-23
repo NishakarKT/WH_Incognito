@@ -1,0 +1,87 @@
+.quickInfo__shapeDivider {
+  position: absolute;
+  top: calc(70vh - 100px);
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.quickInfo__shapeDivider svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 100px;
+}
+
+.quickInfo__shapeDivider .shape-fill {
+  fill: #ffffff;
+}
+
+.quickInfo__logo {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  top: -175px;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: -150px;
+  z-index: 2;
+}
+
+.quickInfo__logo > img {
+  width: 150px;
+  object-fit: contain;
+  margin-bottom: 5px;
+  animation: quickInfo__tv 0.5s linear infinite;
+}
+
+.quickInfo__logo > h1 {
+  font-weight: 500;
+  font-size: 40px;
+}
+
+.quickInfo__logo > p {
+  font-size: 20px;
+}
+
+.quickInfo__navLinks {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.quickInfo__navLink {
+  display: flex;
+  align-items: center;
+  padding: 7.5px;
+  padding-right: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  text-decoration: none;
+  z-index: 1;
+  transition: all 0.5s;
+  border-bottom: 4px solid transparent;
+}
+
+.quickInfo__activeNavLink {
+  background-color: rgba(0, 0, 0, 0.15);
+  border-bottom: 4px solid #1974ec;
+}
+
+.quickInfo__navLink:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.quickInfo__activeNavLink:hover {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.quickInfo__navLink > .MuiSvgIcon-root {
+  font-size: 25px;
+  margin-right: 5px;
+}

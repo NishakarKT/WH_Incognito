@@ -1,0 +1,1 @@
+export const SPRING_FEST_2020_MP4 = "/videos/misc/spring_fest_2020.mp4";

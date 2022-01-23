@@ -1,0 +1,82 @@
+.notification {
+  position: relative;
+  padding: 10px;
+  box-shadow: #00000059 0px 5px 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.notification__title {
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+
+.notification__tag {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  height: 25px;
+  object-fit: contain;
+}
+
+.notification__date {
+  color: grey;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.notification__description {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.notification__from {
+  color: grey;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.notification__link {
+  color: #1974ec;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.notification__link:hover {
+  text-decoration: underline;
+}
+
+.notification__buttons {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.notification__buttons > .MuiButton-root {
+  font-size: 16px;
+  transition: all 0.5s;
+  text-transform: none;
+  padding: 5px 20px;
+  border-radius: 50px;
+}
+
+.notification__buttons > .MuiButton-root > .MuiSvgIcon-root {
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.notification__buttons > .MuiButton-root:hover {
+  filter: brightness(80%);
+}
+
+.notification__buttons > .MuiButton-root:nth-child(1) {
+  color: black;
+  background-color: lightgray;
+  margin-right: 5px;
+}
+
+.notification__buttons > .MuiButton-root:nth-child(2) {
+  color: white;
+  background-color: red;
+}

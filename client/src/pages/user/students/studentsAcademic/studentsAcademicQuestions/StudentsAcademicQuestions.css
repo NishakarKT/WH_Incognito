@@ -1,0 +1,93 @@
+.studentsAcademicQuestions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.studentsAcademicQuestions > h1 {
+  align-self: flex-start;
+  margin-bottom: 10px;
+}
+
+.studentsAcademicQuestions__search {
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-end;
+  margin-bottom: 10px;
+  width: 95vw;
+  max-width: 300px;
+}
+
+.studentsAcademicQuestions__search > .MuiTextField-root {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.studentsAcademicQuestions__search > .MuiIconButton-root {
+  color: white;
+  background-color: #1976d5;
+  transition: all 0.5s;
+}
+
+.studentsAcademicQuestions__search > .MuiIconButton-root:hover {
+  filter: brightness(80%);
+  background-color: #1976d5;
+}
+
+.studentsAcademicQuestions > .MuiTextField-root {
+  align-self: flex-start;
+  margin-bottom: 10px;
+  width: 95vw;
+  max-width: 300px;
+}
+
+.studentsAcademicQuestions__list {
+  width: 100%;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.studentsAcademicQuestions__card {
+  position: relative;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 10px;
+  padding-bottom: 50px;
+}
+
+.studentsAcademicQuestions__card > p {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.studentsAcademicQuestions__card > p > b {
+  color: #1976d5;
+}
+
+.studentsAcademicQuestions__card > .MuiButton-root {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: calc(100% - 10px);
+  color: white;
+  background-color: #1976d5;
+  border-radius: 5px;
+  margin: 5px;
+  text-transform: none;
+  transition: all 0.5s;
+  font-size: 16px;
+}
+
+.studentsAcademicQuestions__card > .MuiButton-root:hover {
+  filter: brightness(80%);
+  background-color: #1976d5;
+}
+
+.studentsAcademicQuestions > .MuiPagination-root {
+  align-self: center;
+  padding: 30px 0;
+}

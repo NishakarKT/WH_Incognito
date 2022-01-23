@@ -1,0 +1,8 @@
+.cardsList__group {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.cardsList__subGroup {
+  flex: 1;
+}

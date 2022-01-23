@@ -1,0 +1,304 @@
+.portal {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.portal__tsg {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.portal__logo {
+  height: 50px;
+  object-fit: contain;
+  margin-right: 10px;
+}
+
+.portal__title {
+  font-weight: 500;
+  color: white;
+}
+
+.portal__title > p:nth-child(1) {
+  font-size: 25px;
+}
+
+.portal__title > p:nth-child(2) {
+  font-size: 15px;
+}
+
+.portal__copyright {
+  position: absolute;
+  left: 5px;
+  bottom: 5px;
+  color: white;
+  font-size: 15px;
+}
+
+.portal__left {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex: 1.75;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #0c6cfa;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.portal__left > .MuiIconButton-root {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: white;
+  outline: 2px solid white;
+  outline-offset: 2px;
+  transition: all 0.5s;
+  animation: portal__btnEffect 2.5s ease-out infinite;
+}
+
+.portal__left > .MuiIconButton-root:hover {
+  background-color: #0c6cfa;
+}
+
+.portal__left > .MuiIconButton-root > .MuiSvgIcon-root {
+  color: #0c6cfa;
+}
+
+.portal__left > .MuiIconButton-root:hover > .MuiSvgIcon-root {
+  color: white;
+}
+
+.portal__bg {
+  position: absolute;
+  top: -60px;
+  left: 0;
+  height: calc(100% + 120px);
+  width: 100%;
+  object-fit: cover;
+  opacity: 0.4;
+  z-index: 0;
+}
+
+.portal__welcome {
+  width: 90%;
+  color: white;
+  padding-left: 20px;
+  z-index: 1;
+}
+
+.portal__welcome > h1 {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.portal__welcome > p:nth-child(2) {
+  font-size: 25px;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.portal__welcome > p:nth-child(3) {
+  font-size: 16px;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.portal__buttons > .MuiButton-root {
+  color: #0c6cfa;
+  background-color: white;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: none;
+  padding: 5px;
+  padding-right: 10px;
+  transition: all 0.5s;
+}
+
+.portal__buttons > .MuiButton-root > .MuiSvgIcon-root {
+  margin-right: 5px;
+}
+
+.portal__buttons > .MuiButton-root:hover {
+  color: white;
+  background-color: #0c6cfa;
+  transform: translateY(5px);
+}
+
+.portal__buttons > .MuiButton-root:nth-child(1) {
+  margin-right: 7.5px;
+}
+
+.portal__right {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  color: rgb(100, 100, 100);
+}
+
+.portal__form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 25px;
+}
+
+.portal__formInfo {
+  width: 100%;
+}
+
+.portal__formInfo > h1 {
+  color: #0c6cfa;
+  display: flex;
+  align-items: center;
+  font-size: 35px;
+  margin-bottom: 15px;
+}
+
+.portal__formInfo > h1 > .MuiSvgIcon-root {
+  font-size: 40px;
+  margin-right: 10px;
+  color: white;
+  background-color: #0c6cfa;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.portal__formInfo > p {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.portal__formInput {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.portal__formInput > .MuiTextField-root {
+  margin-bottom: 10px;
+}
+
+.portal__formInput > .MuiTextField-root input {
+  color: rgb(50, 50, 50);
+}
+
+.portal__formOptions {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.portal__remMe {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.portal__remMe > .MuiCheckbox-root {
+  padding: 5px;
+  padding-left: 0;
+}
+
+.portal__forgotPass {
+  color: #0c6cfa;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.portal__forgotPass:hover {
+  text-decoration: underline;
+}
+
+.portal__form > .MuiButton-root {
+  color: white;
+  background-color: #0c6cfa;
+  text-transform: none;
+  transition: all 0.5s;
+  font-size: 16px;
+}
+
+.portal__form > .MuiButton-root:hover {
+  background-color: #0c6cfa;
+  filter: brightness(80%);
+}
+
+.portal__form > .MuiButton-root > .MuiSvgIcon-root {
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.portal__loginInfo {
+  font-size: 12px;
+  margin-top: 5px;
+  color: rgb(100, 100, 100);
+  font-weight: 600;
+  align-self: flex-start;
+}
+
+.portal__social {
+  position: absolute;
+  bottom: 10px;
+}
+
+.portal__social > .MuiSvgIcon-root {
+  font-size: 35px;
+  margin: 0 3px;
+  cursor: pointer;
+  transition: all 0.5s;
+  border-radius: 50%;
+  padding: 2px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.portal__social > .MuiSvgIcon-root:hover {
+  filter: brightness(80%);
+  transform: scale(1.05) translateY(5px);
+}
+
+.portal__social > .MuiSvgIcon-root:nth-child(1) {
+  color: white;
+  background-color: #395498;
+}
+
+.portal__social > .MuiSvgIcon-root:nth-child(2) {
+  color: white;
+  background-color: #2ba5da;
+}
+
+.portal__social > .MuiSvgIcon-root:nth-child(3) {
+  color: white;
+  background-color: #fe0000;
+}
+
+.portal__social > .MuiSvgIcon-root:nth-child(4) {
+  color: white;
+  background-color: black;
+}
+
+.portal__date {
+  font-weight: 500;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+@keyframes portal__btnEffect {
+  100% {
+    outline-color: transparent;
+    outline-offset: 15px;
+  }
+}

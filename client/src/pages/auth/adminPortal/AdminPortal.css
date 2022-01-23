@@ -1,0 +1,316 @@
+.adminPortal {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.adminPortal__tsg {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.adminPortal__logo {
+  height: 50px;
+  object-fit: contain;
+  margin-right: 10px;
+}
+
+.adminPortal__title {
+  font-weight: 500;
+  color: white;
+}
+
+.adminPortal__title > p:nth-child(1) {
+  font-size: 25px;
+}
+
+.adminPortal__title > p:nth-child(2) {
+  font-size: 15px;
+}
+
+.adminPortal__copyright {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  width: 100%;
+  color: white;
+  font-size: 15px;
+}
+
+.adminPortal__left {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  color: rgb(100, 100, 100);
+}
+
+.adminPortal__form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 25px;
+}
+
+.adminPortal__formInfo {
+  width: 100%;
+}
+
+.adminPortal__formInfo > h1 {
+  color: #0c6cfa;
+  display: flex;
+  align-items: center;
+  font-size: 35px;
+  margin-bottom: 15px;
+}
+
+.adminPortal__formInfo > h1 > .MuiSvgIcon-root {
+  font-size: 40px;
+  margin-right: 10px;
+  color: white;
+  background-color: #0c6cfa;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.adminPortal__formInfo > p {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.adminPortal__formInput {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.adminPortal__formInput > .MuiTextField-root {
+  margin-bottom: 10px;
+}
+
+.adminPortal__formInput > .MuiTextField-root input {
+  color: rgb(50, 50, 50);
+}
+
+.adminPortal__formOptions {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.adminPortal__remMe {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.adminPortal__remMe > .MuiCheckbox-root {
+  padding: 5px;
+  padding-left: 0;
+}
+
+.adminPortal__forgotPass {
+  color: #0c6cfa;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.adminPortal__forgotPass:hover {
+  text-decoration: underline;
+}
+
+.adminPortal__form > .MuiButton-root {
+  color: white;
+  background-color: #0c6cfa;
+  text-transform: none;
+  transition: all 0.5s;
+  font-size: 16px;
+}
+
+.adminPortal__form > .MuiButton-root:hover {
+  background-color: #0c6cfa;
+  filter: brightness(80%);
+}
+
+.adminPortal__form > .MuiButton-root > .MuiSvgIcon-root {
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.adminPortal__loginInfo {
+  font-size: 12px;
+  margin-top: 5px;
+  color: rgb(100, 100, 100);
+  font-weight: 600;
+  align-self: flex-start;
+}
+
+.adminPortal__social {
+  position: absolute;
+  bottom: 10px;
+}
+
+.adminPortal__social > .MuiSvgIcon-root {
+  font-size: 35px;
+  margin: 0 3px;
+  cursor: pointer;
+  transition: all 0.5s;
+  border-radius: 50%;
+  padding: 2px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.adminPortal__social > .MuiSvgIcon-root:hover {
+  filter: brightness(80%);
+  transform: scale(1.05) translateY(5px);
+}
+
+.adminPortal__social > .MuiSvgIcon-root:nth-child(1) {
+  color: white;
+  background-color: #395498;
+}
+
+.adminPortal__social > .MuiSvgIcon-root:nth-child(2) {
+  color: white;
+  background-color: #2ba5da;
+}
+
+.adminPortal__social > .MuiSvgIcon-root:nth-child(3) {
+  color: white;
+  background-color: #fe0000;
+}
+
+.adminPortal__social > .MuiSvgIcon-root:nth-child(4) {
+  color: white;
+  background-color: black;
+}
+
+.adminPortal__date {
+  font-weight: 500;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+.adminPortal__right {
+  flex: 1.75;
+}
+
+.adminPortal__right {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex: 1.75;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #0c6cfa;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.adminPortal__right > .MuiIconButton-root {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: white;
+  outline: 2px solid white;
+  outline-offset: 2px;
+  transition: all 0.5s;
+  animation: adminPortal__btnEffect 2.5s ease-out infinite;
+}
+
+.adminPortal__right > .MuiIconButton-root:hover {
+  background-color: #0c6cfa;
+}
+
+.adminPortal__right > .MuiIconButton-root > .MuiSvgIcon-root {
+  color: #0c6cfa;
+}
+
+.adminPortal__right > .MuiIconButton-root:hover > .MuiSvgIcon-root {
+  color: white;
+}
+
+.adminPortal__bg {
+  position: absolute;
+  top: -60px;
+  left: 0;
+  height: calc(100% + 120px);
+  width: 100%;
+  object-fit: cover;
+  opacity: 0.4;
+  z-index: 0;
+}
+
+.adminPortal__welcome {
+  width: 90%;
+  color: white;
+  padding-left: 20px;
+  z-index: 1;
+}
+
+.adminPortal__welcome > h1 {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.adminPortal__welcome > p:nth-child(2) {
+  font-size: 25px;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.adminPortal__welcome > p:nth-child(3) {
+  font-size: 16px;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.adminPortal__buttons > .MuiButton-root {
+  color: #0c6cfa;
+  background-color: white;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: none;
+  padding: 5px;
+  padding-right: 10px;
+  transition: all 0.5s;
+}
+
+.adminPortal__buttons > .MuiButton-root > .MuiSvgIcon-root {
+  margin-right: 5px;
+}
+
+.adminPortal__buttons > .MuiButton-root:hover {
+  color: white;
+  background-color: #0c6cfa;
+  transform: translateY(5px);
+}
+
+.adminPortal__buttons > .MuiButton-root:nth-child(1) {
+  margin-right: 7.5px;
+}
+
+.adminPortal__errMsg {
+  color: red;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+}
+
+@keyframes adminPortal__btnEffect {
+  100% {
+    outline-color: transparent;
+    outline-offset: 15px;
+  }
+}

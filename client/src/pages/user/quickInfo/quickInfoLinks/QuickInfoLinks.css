@@ -1,0 +1,28 @@
+.quickInfoLinks {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.quickInfoLinks__intro > h1 {
+  font-weight: 500;
+}
+
+.quickInfoLinks__intro > p {
+  color: grey;
+  margin-bottom: 10px;
+}
+
+.quickInfoLinks__link {
+  color: #1974ec;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.quickInfoLinks__linkBox {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.quickInfoLinks__link:hover {
+  text-decoration: underline;
+}

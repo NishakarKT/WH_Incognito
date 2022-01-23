@@ -1,0 +1,938 @@
+[
+    {
+      "_id": "61daa61698f2c267d136d3d4",
+      "title": "CDC Title",
+      "description": "CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details  CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details ",
+      "date": "2022-01-09T09:08:38.664Z",
+      "category": "cdc",
+      "host": "CDC Publisher",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:08:38.730Z",
+      "updatedAt": "2022-01-09T09:08:38.730Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa61698f2c267d136d3d3",
+      "title": "CDC Title",
+      "description": "CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details  CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details ",
+      "date": "2022-01-09T09:08:38.664Z",
+      "category": "cdc",
+      "host": "CDC Publisher",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:08:38.730Z",
+      "updatedAt": "2022-01-09T09:08:38.730Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa61698f2c267d136d3d5",
+      "title": "CDC Title",
+      "description": "CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details  CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details ",
+      "date": "2022-01-09T09:08:38.664Z",
+      "category": "cdc",
+      "host": "CDC Publisher",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:08:38.730Z",
+      "updatedAt": "2022-01-09T09:08:38.730Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012afe",
+      "title": "CDC Title",
+      "description": "CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details  CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details ",
+      "date": "2022-01-09T09:09:44.883Z",
+      "category": "cdc",
+      "host": "CDC Publisher",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.954Z",
+      "updatedAt": "2022-01-09T09:09:44.954Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b01",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Current Office Bearers",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.955Z",
+      "updatedAt": "2022-01-09T09:09:44.955Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b00",
+      "title": "CDC Title",
+      "description": "CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details  CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details ",
+      "date": "2022-01-09T09:09:44.883Z",
+      "category": "cdc",
+      "host": "CDC Publisher",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.955Z",
+      "updatedAt": "2022-01-09T09:09:44.955Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012aff",
+      "title": "CDC Title",
+      "description": "CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details  CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details CDC Details ",
+      "date": "2022-01-09T09:09:44.883Z",
+      "category": "cdc",
+      "host": "CDC Publisher",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.955Z",
+      "updatedAt": "2022-01-09T09:09:44.955Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b05",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Office Staff",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.955Z",
+      "updatedAt": "2022-01-09T09:09:44.955Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b03",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Current Office Bearers",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.955Z",
+      "updatedAt": "2022-01-09T09:09:44.955Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b02",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Current Office Bearers",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.955Z",
+      "updatedAt": "2022-01-09T09:09:44.955Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b06",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Office Staff",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.955Z",
+      "updatedAt": "2022-01-09T09:09:44.955Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b04",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Current Office Bearers",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.955Z",
+      "updatedAt": "2022-01-09T09:09:44.955Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b07",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Office Staff",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.955Z",
+      "updatedAt": "2022-01-09T09:09:44.955Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b08",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Secretaries",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b0b",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Secretaries",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b09",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Secretaries",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b0a",
+      "name": "Professor Ajay Kumar Singh",
+      "designation": "President",
+      "category": "contacts",
+      "subCategory": "Secretaries",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b0c",
+      "title": "Azad",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b0d",
+      "title": "Homi Bhabha",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b0e",
+      "title": "Jagdish Chandra Bose",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b0f",
+      "title": "Lal Bahadur Shastri",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b11",
+      "title": "Madan Mohan Malviya",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b10",
+      "title": "Lala Lajpat Rai",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b12",
+      "title": "Megnad Saha",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b13",
+      "title": "Mother Teresa",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b14",
+      "title": "Nehru",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b15",
+      "title": "Patel",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b16",
+      "title": "Radha Krishnan",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b17",
+      "title": "Rajendra Prasad",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.956Z",
+      "updatedAt": "2022-01-09T09:09:44.956Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b19",
+      "title": "Sister Nivedita",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.957Z",
+      "updatedAt": "2022-01-09T09:09:44.957Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b18",
+      "title": "Sarojini Naidu / Indira Gandhi",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.957Z",
+      "updatedAt": "2022-01-09T09:09:44.957Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b1b",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.957Z",
+      "updatedAt": "2022-01-09T09:09:44.957Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b1a",
+      "title": "Vidyasagar",
+      "description": "Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details Hall Details",
+      "date": null,
+      "category": "halls",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.957Z",
+      "updatedAt": "2022-01-09T09:09:44.957Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b1c",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.957Z",
+      "updatedAt": "2022-01-09T09:09:44.957Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b1e",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.957Z",
+      "updatedAt": "2022-01-09T09:09:44.957Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b1f",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.957Z",
+      "updatedAt": "2022-01-09T09:09:44.957Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b21",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b22",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b1d",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.957Z",
+      "updatedAt": "2022-01-09T09:09:44.957Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b20",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b23",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b24",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b25",
+      "title": "Society's name",
+      "description": "Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details Society Details",
+      "date": null,
+      "category": "societies",
+      "host": "Metakgp",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_1.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2",
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/cdc_2021_2.png?alt=media&token=8cacdde3-4911-4ca0-bcc0-ae975bcbeec2"
+      ],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b26",
+      "name": "Professor Ajay Kumar Singh",
+      "department": "Electrical Engineering",
+      "category": "faculty",
+      "researchArea": "Quantum Computing",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b29",
+      "name": "Professor Ajay Kumar Singh",
+      "department": "Electrical Engineering",
+      "category": "faculty",
+      "researchArea": "Quantum Computing",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b27",
+      "name": "Professor Ajay Kumar Singh",
+      "department": "Electrical Engineering",
+      "category": "faculty",
+      "researchArea": "Quantum Computing",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b2a",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b2d",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b2c",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "contact": {
+        "number": "+91-3222-283832",
+        "email": "singh@phy.iitkgp.ac.in"
+      },
+      "_id": "61daa65879c4ac81b7012b28",
+      "name": "Professor Ajay Kumar Singh",
+      "department": "Electrical Engineering",
+      "category": "faculty",
+      "researchArea": "Quantum Computing",
+      "fileURLs": [
+        "https://firebasestorage.googleapis.com/v0/b/tsg-hackathon.appspot.com/o/quickInfo_contacts_Professor_Ajay_Kumar_Singh_president.png?alt=media&token=02431249-b91f-4bd4-98d4-80a2e21eb6b4"
+      ],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b2b",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b2e",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.958Z",
+      "updatedAt": "2022-01-09T09:09:44.958Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b31",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.959Z",
+      "updatedAt": "2022-01-09T09:09:44.959Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b30",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.959Z",
+      "updatedAt": "2022-01-09T09:09:44.959Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b33",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.959Z",
+      "updatedAt": "2022-01-09T09:09:44.959Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b35",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.959Z",
+      "updatedAt": "2022-01-09T09:09:44.959Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b2f",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.959Z",
+      "updatedAt": "2022-01-09T09:09:44.959Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b36",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.959Z",
+      "updatedAt": "2022-01-09T09:09:44.959Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b34",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.959Z",
+      "updatedAt": "2022-01-09T09:09:44.959Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b32",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.959Z",
+      "updatedAt": "2022-01-09T09:09:44.959Z",
+      "__v": 0,
+      "updatesBy": []
+    },
+    {
+      "_id": "61daa65879c4ac81b7012b37",
+      "name": "IIT Kharagpur Official",
+      "category": "links",
+      "URL": "http://www.iitkgp.ac.in/",
+      "fileURLs": [],
+      "createdAt": "2022-01-09T09:09:44.959Z",
+      "updatedAt": "2022-01-09T09:09:44.959Z",
+      "__v": 0,
+      "updatesBy": []
+    }
+  ]

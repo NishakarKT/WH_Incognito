@@ -1,0 +1,37 @@
+.tsgResults__navLinks {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.tsgResults__navLink {
+  display: flex;
+  align-items: center;
+  padding: 7.5px;
+  padding-right: 30px;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  text-decoration: none;
+  z-index: 1;
+  transition: all 0.5s;
+  border-bottom: 4px solid transparent;
+}
+
+.tsgResults__activeNavLink {
+  background-color: rgba(0, 0, 0, 0.15);
+  border-bottom: 4px solid #1974ec;
+}
+
+.tsgResults__navLink:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.tsgResults__activeNavLink:hover {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.tsgResults__navLink > .MuiSvgIcon-root {
+  font-size: 25px;
+  margin-right: 2px;
+}

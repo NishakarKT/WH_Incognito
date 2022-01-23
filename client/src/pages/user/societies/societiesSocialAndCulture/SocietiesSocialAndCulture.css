@@ -1,0 +1,13 @@
+.societiesSocialAndCulture {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.societiesSocialAndCulture__intro > h1 {
+  font-weight: 500;
+}
+
+.societiesSocialAndCulture__intro > p {
+  color: grey;
+  margin-bottom: 10px;
+}

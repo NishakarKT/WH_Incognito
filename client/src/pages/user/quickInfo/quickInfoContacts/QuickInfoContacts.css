@@ -1,0 +1,51 @@
+.quickInfoContacts {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.quickInfoContacts__intro > h1 {
+  font-weight: 500;
+}
+
+.quickInfoContacts__intro > p {
+  color: grey;
+  margin-bottom: 10px;
+}
+
+.quickInfoContacts__navLinks {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.quickInfoContacts__navLink {
+  display: flex;
+  align-items: center;
+  padding: 7.5px;
+  padding-right: 30px;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  text-decoration: none;
+  z-index: 1;
+  transition: all 0.5s;
+  border-bottom: 4px solid transparent;
+}
+
+.quickInfoContacts__activeNavLink {
+  background-color: rgba(0, 0, 0, 0.15);
+  border-bottom: 4px solid #1974ec;
+}
+
+.quickInfoContacts__navLink:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.quickInfoContacts__activeNavLink:hover {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.quickInfoContacts__navLink > .MuiSvgIcon-root {
+  font-size: 25px;
+  margin-right: 5px;
+}

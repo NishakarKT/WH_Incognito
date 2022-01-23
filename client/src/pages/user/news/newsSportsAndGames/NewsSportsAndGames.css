@@ -1,0 +1,13 @@
+.newsSportsAndGames {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.newsSportsAndGames__intro > h1 {
+  font-weight: 500;
+}
+
+.newsSportsAndGames__intro > p {
+  color: grey;
+  margin-bottom: 10px;
+}

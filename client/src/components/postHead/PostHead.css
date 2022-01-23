@@ -1,0 +1,34 @@
+.postHead {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 7.5px;
+}
+
+.postHead > .MuiAvatar-root {
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+  border: 2px solid #1976d2;
+  padding: 2px;
+  margin-right: 10px;
+}
+
+.postHead > .MuiAvatar-root > img {
+  border-radius: 50%;
+}
+
+.postHead__content {
+}
+
+.postHead__main {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+
+.postHead__sub {
+  color: grey;
+  font-size: 12px;
+  font-weight: 500;
+}

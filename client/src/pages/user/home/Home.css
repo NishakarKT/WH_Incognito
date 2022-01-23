@@ -1,0 +1,151 @@
+.home {
+  display: flex;
+  padding-top: 70px;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  z-index: 2;
+  background-color: white;
+}
+
+.home__posts {
+  flex: 1;
+  margin: 5px;
+  margin-left: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: calc(100vh - 70px);
+  padding-right: 5px;
+  padding-top: 20px;
+}
+
+.home__posts::-webkit-scrollbar {
+  width: 5px;
+}
+
+.home__posts::-webkit-scrollbar-thumb {
+  background-color: lightgray;
+}
+
+.home__posts > div:nth-child(1) {
+  display: flex;
+}
+
+.home__posts > div:nth-child(1) {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.home__posts > div:nth-child(1) > .MuiAvatar-root {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border: 2px solid #1976d2;
+  padding: 2px;
+  margin-right: 10px;
+}
+
+.home__posts > div:nth-child(1) > .MuiAvatar-root > img {
+  border-radius: 50%;
+}
+
+.home__posts > div:nth-child(1) > textarea {
+  font-family: "Roboto";
+  font-size: 18px;
+  width: 100%;
+  border: none;
+  outline: none;
+}
+
+.home__posts > div:nth-child(2) {
+  display: flex;
+  align-items: center;
+}
+
+.home__posts > div:nth-child(2) > .MuiIconButton-root {
+  color: black;
+  background-color: #d8dadf;
+  margin-right: 5px;
+  padding: 5px;
+  transition: all 0.5s;
+}
+
+.home__posts > div:nth-child(2) > .MuiIconButton-root:hover {
+  background-color: #d8dadf;
+  filter: brightness(80%);
+}
+
+.home__sendBtn {
+  color: white !important;
+  background-color: #1976d2 !important;
+}
+
+.home__friends,
+.home__side {
+  width: 320px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: calc(100vh - 70px);
+}
+
+.home__friends > h1,
+.home__side > h1 {
+  font-size: 25px;
+  font-weight: 500;
+  margin: 10px;
+  margin-bottom: 2px;
+}
+
+.home__friends > p,
+.home__side > p {
+  color: grey;
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0 10px;
+  margin-bottom: 5px;
+}
+
+.home__link {
+  color: #1974ec;
+  text-decoration: none;
+}
+
+.home__link:hover {
+  text-decoration: underline;
+}
+
+.home__noMorePosts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 25px 5px;
+}
+
+.home__noMorePosts > p {
+  font-weight: 500;
+  font-size: 20px;
+  color: grey;
+  margin-right: 5px;
+}
+
+.home__noMorePosts > span {
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  font-weight: 500;
+  color: #1974ec;
+  cursor: pointer;
+}
+
+.home__noMorePosts > span > .MuiSvgIcon-root {
+  font-size: 15px;
+}
+
+.home__noMorePosts > span:hover {
+  text-decoration: underline;
+}
+
+.home__noMorePosts > .MuiButton-root > .MuiSvgIcon-root {
+  font-size: 20px;
+}

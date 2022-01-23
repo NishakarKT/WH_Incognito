@@ -1,0 +1,316 @@
+.adminNav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(to right, black, #002b57);
+  width: 100vw;
+  padding: 0 15px;
+  z-index: 3;
+}
+
+.adminNav__container > .MuiIconButton-root {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  color: white;
+  background-color: #1974ec;
+  border: 2px solid white;
+  padding: 5px;
+  transition: all 0.5s;
+  transform: scale(0);
+  z-index: 10;
+}
+
+.adminNav__container > .MuiIconButton-root:hover {
+  filter: brightness(80%);
+  background-color: #1974ec;
+  transform: scale(0.9) !important;
+}
+
+.adminNav__container > .MuiIconButton-root > .MuiSvgIcon-root {
+  font-size: 30px;
+}
+
+.adminNav__bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transform: scaleX(-1);
+  opacity: 0.15;
+  z-index: 0;
+}
+
+.adminNav__left {
+  display: flex;
+  align-items: center;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.adminNav__logo {
+  height: 50px;
+  object-fit: contain;
+  margin-right: 10px;
+}
+
+.adminNav__title {
+  font-weight: 500;
+  color: white;
+}
+
+.adminNav__title > p:nth-child(1) {
+  font-size: 25px;
+}
+
+.adminNav__title > p:nth-child(2) {
+  font-size: 15px;
+}
+
+.adminNav__right {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  color: white;
+  z-index: 1;
+}
+
+.adminNav__link {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 16px;
+  padding: 25px 10px;
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.adminNav__link:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.adminNav__activeLink {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-bottom-color: white;
+}
+
+.adminNav__activeLink:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.adminNav__link > .MuiSvgIcon-root {
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.adminNav__avatar {
+  object-fit: cover;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: white;
+  outline: 2px solid white;
+  outline-offset: 2px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.adminNav__avatar:hover {
+  transform: scale(1.05);
+  filter: brightness(80%);
+}
+
+.adminNav__menuToggle {
+  display: none !important;
+  background-color: white !important;
+  margin: 10px !important;
+  transition: all 0.5s !important;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+}
+
+.adminNav__menuToggle:hover {
+  transform: scale(1.05);
+  filter: brightness(80%);
+}
+
+.adminNav__menuToggle > .MuiSvgIcon-root {
+  color: #002b57;
+}
+
+.adminNav__basicMenu {
+  margin-top: 5px;
+}
+
+.adminNav__basicMenu .MuiList-root {
+  padding: 0px;
+}
+
+.adminNav__basicMenu .MuiPaper-root {
+  min-width: 0;
+  min-height: 0;
+  transition: all 0.2s !important;
+}
+
+.adminNav__basicMenu .MuiMenuItem-root {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.adminNav__basicMenu .MuiMenuItem-root > .MuiSvgIcon-root {
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.adminNav__resMenu .adminNav__menu {
+  display: none;
+}
+
+.adminNav__menu {
+  display: flex;
+  flex-direction: column;
+  background-color: #001933;
+}
+
+.adminNav__menu .adminNav__link {
+  padding: 15px;
+  border-bottom: none;
+}
+
+.adminNav__menuInfo {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  padding-right: 50px;
+}
+
+.adminNav__userInfo {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.adminNav__menuInfo .adminNav__avatar {
+  margin-right: 10px;
+}
+
+.adminNav__userInfo > p:nth-child(1) {
+  font-size: 20px;
+}
+
+.adminNav__userInfo > p:nth-child(2) {
+  font-size: 12px;
+}
+
+@media only screen and (max-width: 1190px) {
+  .adminNav__link {
+    padding: 25px 15px;
+  }
+  .adminNav__link > .MuiSvgIcon-root {
+    display: none;
+  }
+  .adminNav__menu .adminNav__link > .MuiSvgIcon-root {
+    display: inline;
+  }
+}
+
+@media only screen and (max-width: 1080px) {
+  .adminNav__link {
+    padding: 25px 10px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .adminNav__logo {
+    height: 40px;
+  }
+  .adminNav__title > p:nth-child(1) {
+    font-size: 20px;
+  }
+  .adminNav__title > p:nth-child(2) {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 925px) {
+  .adminNav__menuToggle {
+    display: grid !important;
+  }
+  .adminNav__right {
+    display: none;
+  }
+  .adminNav__basicMenu .adminNav__menu {
+    display: none;
+  }
+  .adminNav__resMenu .adminNav__menu {
+    display: flex;
+  }
+  .adminNav__menu .adminNav__link {
+    padding: 10px;
+  }
+  .adminNav__link > .MuiSvgIcon-root {
+    display: inline;
+  }
+  .adminNav__logo {
+    height: 50px;
+  }
+  .adminNav__title > p:nth-child(1) {
+    font-size: 25px;
+  }
+  .adminNav__title > p:nth-child(2) {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 590px) {
+  .adminNav__logo {
+    height: 40px;
+  }
+  .adminNav__title > p:nth-child(1) {
+    font-size: 20px;
+  }
+  .adminNav__title > p:nth-child(2) {
+    font-size: 13px;
+  }
+  .nav {
+    padding-right: 0;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .adminNav__title > p:nth-child(1) {
+    font-size: 18px;
+  }
+  .adminNav__title > p:nth-child(2) {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .adminNav__logo {
+    height: 30px;
+  }
+  .adminNav__title > p:nth-child(1) {
+    font-size: 15px;
+  }
+  .adminNav__title > p:nth-child(2) {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .adminNav__title > p > sup {
+    display: none;
+  }
+}

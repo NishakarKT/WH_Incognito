@@ -1,0 +1,13 @@
+.newsSocialAndCulture {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.newsSocialAndCulture__intro > h1 {
+  font-weight: 500;
+}
+
+.newsSocialAndCulture__intro > p {
+  color: grey;
+  margin-bottom: 10px;
+}

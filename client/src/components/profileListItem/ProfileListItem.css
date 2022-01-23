@@ -1,0 +1,90 @@
+.profileListItem {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.profileListItem:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.profileListItem > .MuiAvatar-root {
+  object-fit: cover;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: 2px solid #1974ec;
+  padding: 2px;
+  margin-right: 5px;
+}
+
+.profileListItem > .MuiAvatar-root > img {
+  border-radius: 50%;
+}
+
+.profileListItem__name {
+  font-size: 20px;
+}
+
+.profileListItem__roll {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 500;
+  color: grey;
+}
+
+.profileListItem > .MuiIconButton-root {
+  margin-left: auto;
+  color: white;
+  background-color: #1974ec;
+  transition: all 0.5s;
+  width: 30px;
+  height: 30px;
+}
+
+.profileListItem > .MuiIconButton-root > .MuiSvgIcon-root {
+  font-size: 20px;
+}
+
+.profileListItem > .MuiIconButton-root:hover {
+  filter: brightness(80%);
+  transform: scale(0.95);
+}
+
+.profileListItem__isFriend {
+  background-color: green !important;
+  outline: 2px solid green !important;
+  outline-offset: 2px;
+}
+
+.profileListItem__alertBox > h1 {
+  font-size: 20px;
+  font-weight: 500;
+  margin: 20px;
+  margin-bottom: 10px;
+}
+
+.profileListItem__alertBox > p {
+  font-size: 15px;
+  margin: 0 20px;
+}
+
+.profileListItem__buttons {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.profileListItem__buttons > .MuiButton-root {
+  flex: 1;
+  font-size: 16px;
+  text-transform: none;
+}
+
+.profileListItem__buttons > .MuiButton-root:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}

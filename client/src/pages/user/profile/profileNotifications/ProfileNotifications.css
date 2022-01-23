@@ -1,0 +1,164 @@
+.profileNotifications {
+  display: flex;
+  padding: 0 10px;
+  padding-bottom: 10px;
+}
+
+.profileNotifications__welcome {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.profileNotifications__intro {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-bottom: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.profileNotifications__intro > img {
+  object-fit: cover;
+  width: 100%;
+  height: 300px;
+}
+
+.profileNotifications__shapeDivider {
+  position: absolute;
+  top: 250px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.profileNotifications__shapeDivider svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 50px;
+}
+
+.profileNotifications__shapeDivider .shape-fill {
+  fill: #ffffff;
+}
+
+.profileNotifications__intro > p {
+  font-size: 15px;
+  margin-top: -25px;
+  padding: 10px;
+  z-index: 1;
+}
+
+.profileNotifications__intro > .MuiButton-root {
+  font-size: 16px;
+  color: white;
+  background-color: #1974ec;
+  text-transform: none;
+  transition: all 0.5s;
+  margin: 5px;
+  margin-top: 0;
+  width: calc(100% - 10px);
+}
+
+.profileNotifications__intro > .MuiButton-root:hover {
+  background-color: #1974ec;
+  filter: brightness(80%);
+}
+
+.profileNotifications__intro > .MuiButton-root > .MuiSvgIcon-root {
+  margin-right: 2px;
+}
+
+.profileNotifications__link {
+  color: #1974ec;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.profileNotifications__link:hover {
+  text-decoration: underline;
+}
+
+.profileNotifications__list {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  padding-bottom: 0px;
+}
+
+.profileNotifications__info {
+  display: flex;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 5px;
+  overflow: hidden;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.profileNotifications__info > .MuiSvgIcon-root {
+  font-size: 25px;
+  margin-right: 5px;
+  color: #1974ec;
+}
+
+.profileNotifications__info > p {
+  color: grey;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.profileNotifications__heading > h1 {
+  font-weight: 500;
+}
+
+.profileNotifications__heading > p {
+  color: grey;
+  margin-bottom: 10px;
+}
+
+.profileNotifications__list > .MuiPagination-root {
+  align-self: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.profileNotifications__news {
+  position: relative;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 10px;
+  padding-right: 55px;
+  border-radius: 5px;
+}
+
+.profileNotifications__news > img {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  object-fit: contain;
+  width: 50px;
+}
+
+.profileNotifications__news > h1 {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.profileNotifications__news > p:nth-child(3) {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 3px 0;
+}
+
+.profileNotifications__news > p:nth-child(4) {
+  font-size: 12px;
+}

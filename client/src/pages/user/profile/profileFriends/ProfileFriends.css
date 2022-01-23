@@ -1,0 +1,27 @@
+.profileFriends {
+  display: flex;
+  padding: 0 5px;
+}
+
+.profileFriends__group > h1 {
+  font-size: 25px;
+  font-weight: 500;
+  margin: 10px;
+  margin-bottom: 2px;
+}
+
+.profileFriends__group {
+  flex: 1;
+}
+
+.profileFriends__group:nth-child(1) {
+  margin-right: 10px;
+}
+
+.profileFriends__group > p {
+  color: grey;
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0 10px;
+  margin-bottom: 5px;
+}

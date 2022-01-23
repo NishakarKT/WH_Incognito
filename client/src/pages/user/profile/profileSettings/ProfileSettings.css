@@ -1,0 +1,72 @@
+.profileSettings {
+  padding: 10px;
+  padding-top: 0;
+}
+
+.profileSettings__options {
+  display: flex;
+}
+
+.profileSettings__intro {
+  margin-bottom: 10px;
+}
+
+.profileSettings__intro > h1 {
+  font-weight: 500;
+}
+
+.profileSettings__intro > p {
+  color: grey;
+}
+
+.profileSettings__group {
+  width: 400px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.profileSettings__setting {
+  display: flex;
+  justify-content: space-between;
+}
+
+.profileSettings__title {
+  display: flex;
+  align-items: center;
+}
+
+.profileSettings__title > .MuiSvgIcon-root {
+  font-size: 25px;
+  margin-right: 3px;
+  color: #1974ec;
+}
+
+.profileSettings__title > p {
+  font-size: 16px;
+}
+
+.profileSettings__title > p > span {
+  color: #1974ec;
+  font-weight: bold;
+}
+
+.profileSettings__group {
+  height: fit-content;
+}
+
+.profileSettings__group > h1 {
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+@media only screen and (max-width: 900px) {
+  .profileSettings__options {
+    flex-direction: column-reverse;
+  }
+  .profileSettings__group {
+    width: calc(100% - 10px);
+    margin-bottom: 10px;
+  }
+}

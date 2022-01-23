@@ -1,0 +1,21 @@
+.profileCertificatesSportsAndGames__intro {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.profileCertificatesSportsAndGames__intro > h1 {
+  font-weight: 500;
+}
+
+.profileCertificatesSportsAndGames__intro > p {
+  color: grey;
+}
+
+.profileCertificatesSportsAndGames__cardsContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  padding: 10px;
+}

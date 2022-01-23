@@ -1,0 +1,203 @@
+.profileEditProfile {
+  position: relative;
+  flex: 1;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.profileEditProfile__coverPic {
+  position: relative;
+}
+
+.profileEditProfile__coverPic > .MuiSvgIcon-root {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 40px;
+  padding: 5px;
+  color: white;
+  background-color: #1974ec;
+  border: 2px solid white;
+  border-radius: 50%;
+  transition: all 0.5s;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.profileEditProfile__coverPic > .MuiSvgIcon-root:hover {
+  filter: brightness(80%);
+  transform: scale(0.95);
+}
+
+.profileEditProfile__link {
+  color: #1974ec;
+  text-decoration: none;
+}
+
+.profileEditProfile__link:hover {
+  text-decoration: underline;
+}
+
+.profileEditProfile > h1 {
+  font-size: 25px;
+  font-weight: 500;
+  margin: 10px;
+  margin-bottom: 0;
+}
+
+.profileEditProfile > p {
+  margin: 10px;
+  margin-top: 0;
+}
+
+.profileEditProfile__profilePic {
+  position: relative;
+  align-self: center;
+  top: -100px;
+  margin-bottom: -200px;
+  cursor: pointer;
+}
+
+.profileEditProfile__profilePic > img {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid white;
+  transition: all 0.5s;
+}
+
+.profileEditProfile__profilePic > .MuiSvgIcon-root {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  font-size: 40px;
+  padding: 5px;
+  color: white;
+  background-color: #1974ec;
+  border: 2px solid white;
+  border-radius: 50%;
+  transition: all 0.5s;
+  margin-top: -200px;
+  z-index: 1;
+}
+
+.profileEditProfile__profilePic > .MuiSvgIcon-root:hover {
+  filter: brightness(80%);
+  transform: scale(0.95);
+}
+
+.profileEditProfile__profilePic > img:hover {
+  filter: brightness(80%);
+}
+
+.profileEditProfile > .MuiTextField-root {
+  margin: 10px;
+  margin-bottom: 0;
+}
+
+.profileEditProfile__inputGroup {
+  display: flex !important;
+  width: calc(100% - 20px);
+  margin: 10px;
+  margin-bottom: 0;
+  justify-content: space-between;
+}
+
+.profileEditProfile__inputGroupFirst > .MuiFormControl-root {
+  width: calc(50% - 125px);
+}
+
+.profileEditProfile__inputGroupSecond > .MuiFormControl-root {
+  width: calc(50% - 75px);
+}
+
+.profileEditProfile__inputGroupThird > .MuiFormControl-root {
+  width: calc(50% - 25px);
+}
+
+.profileEditProfile > label {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 10px;
+  margin-bottom: 5px;
+  color: grey;
+}
+
+.profileEditProfile > textarea {
+  font-size: 16px;
+  font-family: "Roboto";
+  min-width: calc(100% - 20px);
+  max-width: calc(100% - 20px);
+  min-height: 200px;
+  max-height: 200px;
+  outline: none;
+  margin-left: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 1px;
+  transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.profileEditProfile > textarea:focus {
+  border-color: #1974ec;
+}
+
+.profileEditProfile > textarea::-webkit-scrollbar {
+  width: 3px;
+}
+
+.profileEditProfile > textarea::-webkit-scrollbar-track {
+  background-color: white;
+}
+
+.profileEditProfile > textarea::-webkit-scrollbar-thumb {
+  background-color: #1974ec;
+}
+
+.profileEditProfile > .MuiButton-root {
+  width: calc(100% - 20px);
+  text-transform: none;
+  font-size: 18px;
+  margin: 10px;
+  color: white;
+  background-color: #1974ec;
+  align-self: center;
+  transition: all 0.5s;
+  margin-right: 10px;
+}
+
+.profileEditProfile > .MuiButton-root:hover {
+  background-color: #1974ec;
+  filter: brightness(80%);
+}
+
+.profileEditProfile > .MuiButton-root > .MuiSvgIcon-root {
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.profileEditProfile__contactLinks {
+  display: flex;
+  flex-direction: column;
+}
+
+.profileEditProfile__contactLink {
+  display: flex;
+  align-items: flex-end;
+  padding: 0 10px;
+}
+
+.profileEditProfile__contactLink > .MuiTextField-root {
+  flex: 1;
+  margin-bottom: 10px;
+}
+
+.profileEditProfile__contactLink > .MuiTextField-root:nth-last-child(1) {
+  margin-bottom: 0;
+}

@@ -1,0 +1,263 @@
+.adminTsg {
+  display: flex;
+  height: 100vh;
+  padding-top: 70px;
+}
+
+.adminTsg__old {
+  flex: 2;
+}
+
+.adminTsg__new {
+  flex: 1;
+  height: calc(100vh - 70px);
+  display: flex;
+  flex-direction: column;
+}
+
+.adminTsg__new > form {
+  overflow-y: auto;
+  padding: 0 10px;
+}
+
+.adminTsg__new > form::-webkit-scrollbar {
+  width: 5px;
+}
+
+.adminTsg__new > form::-webkit-scrollbar-thumb {
+  background-color: lightgray;
+}
+
+.adminTsg__new > h1 {
+  font-size: 30px;
+  font-weight: 500;
+  padding: 0 10px;
+  margin-top: 7.5px;
+}
+
+.adminTsg__new > p {
+  font-weight: 500;
+  color: grey;
+  font-size: 12px;
+  padding: 0 10px;
+  margin-bottom: 7.5px;
+}
+
+.adminTsg__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.adminTsg__title {
+}
+
+.adminTsg__title > h1 {
+  font-size: 30px;
+  font-weight: 500;
+  padding: 0 10px;
+  margin-top: 7.5px;
+}
+
+.adminTsg__title > p {
+  font-weight: 500;
+  color: grey;
+  font-size: 12px;
+  padding: 0 10px;
+  margin-bottom: 7.5px;
+}
+
+.adminTsg__list {
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: calc(100vh - 150px);
+  margin-top: 10px;
+  scroll-behavior: smooth;
+}
+
+.adminTsg__list .MuiAccordion-root {
+  box-shadow: none;
+}
+
+.adminTsg__list .MuiAccordion-root .MuiAccordionSummary-content {
+  display: flex;
+  align-items: center;
+}
+
+.adminTsg__list
+  .MuiAccordion-root
+  .MuiAccordionSummary-content
+  > .MuiIconButton-root {
+  margin-left: auto;
+  margin-right: 5px;
+  color: lightcoral;
+}
+
+.adminTsg__new > form textarea,
+.MuiTextField-root,
+.adminTsg__list .MuiAccordion-root .MuiTextField-root {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.adminTsg__new > form textarea,
+.adminTsg__list .MuiAccordion-root .MuiAccordionDetails-root textarea {
+  font-family: "Roboto";
+  font-size: 16px;
+  min-width: 100%;
+  min-height: 100px;
+  outline: none;
+  resize: none;
+  margin-bottom: 10px;
+}
+
+.adminTsg__list .MuiAccordion-root:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.adminTsg__list::-webkit-scrollbar {
+  width: 5px;
+}
+
+.adminTsg__list::-webkit-scrollbar-thumb {
+  background-color: lightgray;
+}
+
+.adminTsg__group {
+  display: flex;
+  align-items: center;
+}
+
+.adminTsg__group > .MuiFormControl-root {
+  flex: 1;
+}
+
+.adminTsg__group .MuiNativeSelect-root,
+.adminTsg__group .MuiTextField-root {
+  margin-bottom: 10px;
+}
+
+.adminTsg__filesInput {
+  flex: 1;
+}
+
+.adminTsg__filesInput > input {
+  display: none;
+}
+
+.adminTsg__buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.adminTsg__buttons > .MuiButton-root {
+  color: white;
+  background-color: #1976d2;
+  flex: 1;
+  font-size: 16px;
+  text-transform: none;
+  transition: all 0.5s;
+}
+
+.adminTsg__filesInput > .MuiButton-root {
+  width: 100%;
+  color: black;
+  background-color: lightgray;
+  font-size: 16px;
+  text-transform: none;
+  transition: all 0.5s;
+}
+
+.adminTsg__buttons > .MuiButton-root:hover {
+  filter: brightness(80%);
+  background-color: #1976d2;
+}
+
+.adminTsg__filesInput > .MuiButton-root:hover {
+  filter: brightness(80%);
+  background-color: lightgray;
+}
+
+.adminTsg__buttons > .MuiButton-root > .MuiSvgIcon-root,
+.adminTsg__filesInput > .MuiButton-root > .MuiSvgIcon-root {
+  font-size: 16px;
+  margin-right: 3px;
+}
+
+.adminTsg__search {
+  display: flex;
+  align-items: center;
+}
+
+.adminTsg__search > .MuiIconButton-root {
+  color: white;
+  background-color: #1974ec;
+  margin: 0 10px;
+  transition: all 0.5s;
+}
+
+.adminTsg__search > .MuiIconButton-root:hover {
+  transform: scale(0.95);
+  filter: brightness(80%);
+}
+
+.adminTsg__alertBox > h1 {
+  font-size: 20px;
+  font-weight: 500;
+  margin: 20px;
+  margin-bottom: 10px;
+}
+
+.adminTsg__alertBox > p {
+  font-size: 15px;
+  margin: 0 20px;
+}
+
+.adminTsg__alertButtons {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.adminTsg__alertButtons > .MuiButton-root {
+  flex: 1;
+  font-size: 16px;
+  text-transform: none;
+  margin: 2.5px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.adminTsg__alertButtons > .MuiButton-root:hover {
+  filter: brightness(80%);
+}
+
+.adminTsg__alertButtons > .MuiButton-root:nth-child(1) {
+  color: black;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.adminTsg__alertButtons > .MuiButton-root:nth-child(2) {
+  color: white;
+  background-color: red;
+}
+
+.adminTsg__alertButtons > .MuiButton-root:nth-child(1):hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+@media only screen and (max-width: 940px) {
+  .adminTsg {
+    flex-direction: column;
+  }
+  .adminTsg__list {
+    height: fit-content;
+  }
+  .adminTsg__new {
+    height: fit-content;
+  }
+  .adminTsg__old {
+    margin-top: 25px;
+  }
+}

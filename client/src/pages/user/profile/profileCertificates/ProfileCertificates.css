@@ -1,0 +1,37 @@
+.profileCertificates__navLinks {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.profileCertificates__navLink {
+  display: flex;
+  align-items: center;
+  padding: 7.5px;
+  padding-right: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  text-decoration: none;
+  z-index: 1;
+  transition: all 0.5s;
+  border-bottom: 4px solid transparent;
+}
+
+.profileCertificates__activeNavLink {
+  background-color: rgba(0, 0, 0, 0.15);
+  border-bottom: 4px solid #1974ec;
+}
+
+.profileCertificates__navLink:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.profileCertificates__activeNavLink:hover {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.profileCertificates__navLink > .MuiSvgIcon-root {
+  font-size: 25px;
+  margin-right: 5px;
+}

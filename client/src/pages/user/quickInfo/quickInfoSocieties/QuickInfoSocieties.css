@@ -1,0 +1,13 @@
+.quickInfoSocieties {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.quickInfoSocieties__intro > h1 {
+  font-weight: 500;
+}
+
+.quickInfoSocieties__intro > p {
+  color: grey;
+  margin-bottom: 10px;
+}

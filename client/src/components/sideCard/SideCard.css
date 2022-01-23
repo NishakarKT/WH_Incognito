@@ -1,0 +1,50 @@
+.sideCard {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.sideCard__content {
+  width: calc(100% - 250px);
+  padding: 10px;
+}
+
+.sideCard__title {
+  font-size: 25px;
+}
+
+.sideCard__date {
+  font-size: 12px;
+  font-weight: 500;
+  color: grey;
+}
+
+.sideCard__category {
+  font-size: 15px;
+  font-weight: 500;
+  color: grey;
+}
+
+.sideCard__description {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.sideCard__host {
+  font-size: 12px;
+  font-weight: 500;
+  color: grey;
+}
+
+.sideCard__link {
+  color: #1974ec;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.sideCard__link:hover {
+  text-decoration: underline;
+}

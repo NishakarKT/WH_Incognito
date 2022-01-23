@@ -1,0 +1,13 @@
+.tsgTechnology {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.tsgTechnology__intro > h1 {
+  font-weight: 500;
+}
+
+.tsgTechnology__intro > p {
+  color: grey;
+  margin-bottom: 10px;
+}

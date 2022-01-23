@@ -1,0 +1,13 @@
+.archivesEvents {
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.archivesEvents__intro > h1 {
+  font-weight: 500;
+}
+
+.archivesEvents__intro > p {
+  color: grey;
+  margin-bottom: 10px;
+}
